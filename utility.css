@@ -1,0 +1,24 @@
+.d-flex{
+    display: flex;
+}
+.padd-t{
+    padding: 20px;
+}
+.bor{
+    border: 3px solid rgb(222, 222, 222);
+}
+.m-t{
+    margin-top: 70px;
+}
+.j-c{
+    justify-content: center;
+}
+.m-t-t{
+    margin-top: 150px;
+}
+.green{
+    color: #8dc63f  ;
+}
+.f-s{
+    font-size: 30px;
+}
